@@ -1,0 +1,173 @@
+#EXTM3U
+#EXTINF:-1 ,100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 ,112 Ukraine (Opt-1)
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:-1 ,112 Ukraine (Opt-2)
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1 ,112 Ukraine (Opt-3)
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 ,1-2-3 TV
+http://123tv.cdn.ses-ps.com/index.m3u8
+#EXTINF:-1 ,1TV Odessa
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+#EXTINF:-1 ,218 News (New!)
+http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,25 TV
+http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,28 Kanala
+https://5940924978228.streamlock.net/8157/8157/.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF:-1 ,30A Music
+http://30a-tv.com/music.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,30A TV
+http://30a-tv.com/my999.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1 ,3AW 693 AM Melbourne
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+#EXTINF:-1 ,CNN Turk (Opt-1)
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 ,Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1 ,CONtv
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:-1 ,CP Info
+http://109.68.40.67/life/magnolia.m3u8
+#EXTINF:-1 ,CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:-1 ,CPAC Francais
+http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
+#EXTINF:-1 ,Crete TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:-1 ,Cromtel TV
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
+#EXTINF:-1 ,C-SPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,C-SPAN 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,C-SPAN 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,CT-N Court Feed
+http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8
+#EXTINF:-1 ,CT-N Live Stream 1
+http://video.ct-n.com/live/web1stream/chunklist_w1992415243_DVR.m3u8
+#EXTINF:-1 ,CT-N Live Stream 2
+http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
+#EXTINF:-1 ,CT-N Streaming Media
+http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
+#EXTINF:-1 ,Cultura 24 TV (New!)
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+#EXTINF:-1 ,Dancestar TV
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+#EXTINF:-1 ,Darcizzle Offshore
+http://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 ,Kanal Urfa (New!)
+http://stream.taksimbilisim.com:1935/kanalurfa/bant1/chunklist_w1042205694.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,KBC
+http://221.157.125.232:1935/live/kbctv/playlist.m3u8
+#EXTINF:-1 ,Kecskemeti TV (New!)
+http://rtmp1.40e.hu:8000/live/ktv.m3u8
+#EXTINF:-1 ,Kepez TV (New!)
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 ,Ketnet
+https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1 ,KIRO 7 News (Seattle)
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Publika TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 ,PUC TV Goias
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+#EXTINF:-1 ,Punjab TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 ,Punjabi Zindabad
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Quest TV (New!)
+https://rrsatrtmp.tulix.tv/questtv1/questtv1multi.smil/chunklist.m3u8
+#EXTINF:-1 ,QVC
+http://ios-stream.qvc.de/qvc.m3u8
+#EXTINF:-1 ,QVC
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 ,QVC Beauty
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 ,QVC Extra
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 ,QVC Style
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 ,QVC UK +1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+#EXTINF:-1 ,Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Radio 51 Lombardia
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1 ,Radio 88 Stereo
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+#EXTINF:-1 ,Radio Birikina TV
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Radio Capital
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 ,Radio Carina Potenza
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1 ,Radio Contact 102.2 FM Brussels
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 ,Radio Farda
+http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+#EXTINF:-1 ,Radio Iglesias Sardegna
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1 ,TeleRomagna
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 ,TeleRomagna Mia
+http://livetr.teleromagna.it/news/live/playlist.m3u8
+#EXTINF:-1 ,TeleRomagna24
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 ,TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1 ,Telestar 1
+http://193.34.109.10:8090
+#EXTINF:-1 ,Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 ,TeleSUR (Opt-1)
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,TeleSUR English (VE)
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Teletricolore Reggio
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,TeleTusciaSabina 2000
+http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,TeleVideo Agrigento
+https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Televisio Girona
+http://ventdelnord.tv:8080/girona/directe.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Television del Este
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Televizia Nove Zamky
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1 ,Televizia OSEM (Opt-1)
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+#EXTINF:-1 ,Televizia OSEM (Opt-2)
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Tempe 11
+http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
+#EXTINF:-1 ,Tenerife 2030
+http://livestream.iter.es:9876/tdt/tdt.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Teve2
+http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+#EXTINF:-1 ,Tevere TV Valtiberina
+https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,TGRT Belgesel TV
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+#EXTINF:-1 ,Thairath TV
+http://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1 ,The Asylum (New!)
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+#EXTINF:-1 ,The Beach Show (New!)
+http://30a-tv.com/beachy.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,The Pet Collective (New!)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 ,The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
